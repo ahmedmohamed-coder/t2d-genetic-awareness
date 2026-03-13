@@ -1,0 +1,5 @@
+rsid,gene,chromosome,trait,notes
+rs7903146,TCF7L2,10,Type 2 Diabetes,Strongly associated with T2D risk
+rs13266634,SLC30A8,8,Type 2 Diabetes,Zinc transporter ZnT8; T2D association
+rs9939609,FTO,16,Obesity/Metabolic risk,Associated with BMI and T2D risk
+rs1801282,PPARG,3,Type 2 Diabetes,Pro12Ala variant; metabolic regulation
